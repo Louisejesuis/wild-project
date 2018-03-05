@@ -1,0 +1,1 @@
+// Voici le commentaire de Link dans le fichier not_same_file.js !
